@@ -1,0 +1,81 @@
+body{background:black;
+    padding:5%;
+
+    
+    
+    
+
+}
+.post{
+    width:500px;
+    margin:auto;
+    background:white;
+    padding-top:1%;
+    font-family: Roboto;
+    
+    
+}    
+
+.post-header{
+    
+    display:flex;
+
+} 
+
+.push {
+  margin-left: auto;
+}
+    
+.post-header img{
+ width:50px;
+}   
+
+.post-imagen img{
+    width:500px;
+}    
+.post-body{
+    padding: 15px;
+    
+    
+    
+    
+}
+
+.iconosenteros{
+    display:flex;
+
+    
+
+
+    }
+ 
+.iconosenteros i{   
+    font-size:25px;
+
+
+}
+    
+
+
+post-iconos2{
+    width:3%;
+    
+    
+    
+
+    
+    
+     
+    
+
+}
+
+.post-iconos{
+    width:97%
+    
+}
+
+
+  
+
+
